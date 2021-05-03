@@ -1,6 +1,6 @@
 # Links
 * [Grooking behavioral Questions](https://www.educative.io/courses/grokking-the-behavioral-interview)
-
+* [Most frequent coding questions asked by amazon](https://igotanoffer.com/blogs/tech/amazon-software-development-engineer-interview)
 
 # Leadership principles
 ### [Why Amazon?](https://www.educative.io/blog/why-amazon-interview-question)
