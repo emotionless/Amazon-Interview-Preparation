@@ -16,6 +16,7 @@ Lastly, a former co-worker now serves as a Software Engineer at Amazon. He has t
 
 
 
+
 MCQ on Amazon prime video:
 1. Market share 13%. Netflix - 23%
 2. First lunched - 2006
